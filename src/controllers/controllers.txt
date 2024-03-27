@@ -1,0 +1,2 @@
+Controllers are basically functions for routes, fetching, posting, and all other. Routes are redirected to specific functions.
+Why Controllers? It is a clean way to code for a production level code. If we write everything in routes, then the code of routes will go very long, that is why we use Controllers.
